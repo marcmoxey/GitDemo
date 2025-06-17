@@ -1,4 +1,4 @@
-# Git Demo Repo 
+# Git Demo Repo
 This is sample repository for Git
 
 ## Roadmap
